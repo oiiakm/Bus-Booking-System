@@ -1,1 +1,3 @@
 # Bus-Booking-System
+Bus Booking System is a software application that allows users to book bus tickets, register bus details and generate tickets using Python tkinter library and sqlite3 database. The application has a graphical user interface (GUI) that enables users to interact with the system easily and intuitively. Users can enter their personal information, travel details etc. They can also register their bus details such as bus number, route, capacity and fare to the system. The application can generate tickets.
+Bus Booking System is a convenient and efficient way to manage bus reservations and ticketing.
